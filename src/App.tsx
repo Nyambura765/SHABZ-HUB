@@ -27,6 +27,7 @@ import Fans from "./pages/ForFans";
 import Engage from "./pages/Engage";
 import EventsBlogs from "./pages/Events";
 
+//
 
 const queryClient = new QueryClient();
 const config = getDefaultConfig({
